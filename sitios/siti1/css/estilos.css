@@ -1,0 +1,38 @@
+body{
+    background-color:gray;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+}
+
+#contenedor{
+     width: 90%;
+     margin: 10px auto;
+     border: 2px silver inset ;
+     border-radius: 7%;
+     padding: 0px 15px;
+}
+
+#cabecera{
+    background: linear-gradient(to left, red, blue, white);
+    color: black;
+
+}
+
+a:hover{
+    text-decoration: none;
+    size-adjust: 1.5;
+}
+
+a:link{
+    color: tomato;
+
+}
+
+a:visited{
+    color: yellowgreen;
+}
+
+a:active{
+    color: blue;
+}
